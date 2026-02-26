@@ -6,11 +6,11 @@ from datetime import datetime
 
 # -------------------------------
 # Firebase Initialization (Fixed Safe Version)
-# -------------------------------
+# -------------------------------cd
 try:
     firebase_admin.get_app()
 except ValueError:
-    cred = credentials.Certificate("firebase_config.json")
+    cred = credentials.Certificate(dict(st.secrets["firebase"]))
     firebase_admin.initialize_app(cred)
 
 db = firestore.client()

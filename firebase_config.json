@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "journacord-aliyah",
+  "private_key_id": "6649b8bba320eab84d6fe4ca34b8e26fe06d9610",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNG3Ga9g2feIQ9\n4i2kRGbsy5NEa457q7CaAqFAFBKtvtP/ebC8grQ7rS8sByzKqnXhRTLEkuZPupNC\nJ+EvbjE5DOi+itmHEifmP9m+nINvKTi1Ww0+EkdQPbbuIqgmZfFTywqQrgBaVgVv\nvkA94NG2wo1Qu/oYkktEWmJhFC7ofOB70aO7RqxleTCvINkgcwBBboql3JP5NRtu\nuRaHmNpKMAlshUpG1tU26QKEZDgt5SLwB1lSBz9tJCIQkXjJxUAsMK36HWem5rtd\nJ8indUyUsvOSDcxMWnRNf5MBKZvGjtRq106HdlqZGJk+S/tfWQxOKmQ3lC/rn90S\n+8bBLneJAgMBAAECggEADPOxbE9cdcBKpyF9HgBXUDHpbRTQScK7HY/TPD37bu4+\nqEsDsXHv2DBvzYNFFb8qvcgrvkZblILkJGTjswZSx1FLhb3Z9J9ygRxoQKo+GDR4\n65CVeRaVbCSWB2qv84JU8eOHrzsBdklCC30ziVp69WMLNJdkf9/hv77qG84N9jHp\nRtNHMqlvIPo7VvRJ8gN9JrEif9FRJ4Rr5JU/o720lPc8DJT3ZSYhq2l8+Vj7mDBm\n3H6abEVcLDG2XZ1mFKZooi6Sm6nAxUnlsr2WFkp/GLzyVulEXdZxgAhtZAFsGhOQ\nRj5oUvCPuw5kmS4CJeMIRww5wkjgeeWhTgR5mYKQ/wKBgQC+lypeg9VPB+6c5aCo\np4a7AGs+sAjg1cHwOUOAkj80bpnX1OOPLSgG+FNoc1F0soX9dxMEEgCbkopjYtaE\n46bPFYuMarTmkVAqIbtlFCeVqOByp8xRHSy+6NnD7SBsc/JNUr7lQM2lDnUrAY+a\nN8/L/wPQl8wh7amkVe92ghQzMwKBgQC9iMrYyNqCkFFC24oRGF1QwgLtRghtwbyE\n5Z3rilkPQ3RGfteAlHU2fD4L0+vOLXjDbRqYUyoXmxxew1vvv18YOeT/FEa3jh95\nDdVBjnhGqvbHpoA9lDdgN4T1VvFpj8eZ+eo2iJsFGKqNYrwGbY45LXIUnPeJb/zv\n4ASQKtaqUwKBgFEZY+cJ9AeIGYnb0ExT1OnX2Mq4/14ktzywMUAReyGleoMzzI0N\nKv4kRuGoSF3+5TMgqw/NVULdzVNTKHMtp7pwsYvTkByYcuMqrWHqfJmbXb6MFk3h\nuzuVO6y6R1S+1bj/X8mPlLIKf+MH7AI0g5CLeCUXor5BMjGCe74SxeOvAoGAXDfF\ncorvfl1XnG8TE1RGevea0vWjPjvoTMUn/CWZRYrtdStcEUyqZzM2QS0Aa5XGT1ez\ne+/i6A9pU1Y8Uj9Lto7cs5ua+M5m09B+NWJrdP7UCboiZVPLSb5Zq8F8vn7dgDaP\n1a7LtkQVH6utjncZnwpUmmDxM+bQK6pUrgyZ288CgYBkpDrJpJOwS0Yayyv7wW2u\nHs4GifJq7aTpea6fcS1FeZlgn1P/hfgU0BQ/cUTlf2FzR9QDTY6b5xhhOoe8rAek\nU3KDVESEnoVBHHIlWFshuDIT1a/4wPydmgH9A6X07J1YAExaHCDZbHTV4qeN//1g\nJrlyuya9vUti2DmHwmN+1Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@journacord-aliyah.iam.gserviceaccount.com",
+  "client_id": "114028022072445577205",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40journacord-aliyah.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
