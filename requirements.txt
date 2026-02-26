@@ -1,2 +1,2 @@
 firebase_admin==7.1.0
-streanlit==1.54.0
+streamlit==1.54.0
